@@ -1,3 +1,10 @@
+# Deprecation notice: New Version Available
+
+This version of the SDK has been deprecated and replaced with the newly reconstructed SDK.
+
+For the latest API features and improved integration, please visit our updated repository at https://github.com/AfterShip/tracking-sdk-java and follow the provided instructions.
+
+
 # aftership-sdk-java
 
 [![Maven Central](https://img.shields.io/maven-central/v/com.slack.api/slack-api-client.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:com.aftership%20a:aftership-sdk)
